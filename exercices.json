@@ -1,0 +1,368 @@
+{
+  "exercices": [
+    {
+      "nom": "Squat",
+      "niveau": {
+        "debutant": {
+          "description": "Effectuez des squats sans poids en gardant le dos droit.",
+          "repetitions": {
+            "hommes": "3 séries de 10 répétitions",
+            "femmes": "3 séries de 12 répétitions"
+          }
+        },
+        "intermediaire": {
+          "description": "Effectuez des squats avec un haltère léger dans chaque main.",
+          "repetitions": {
+            "hommes": "3 séries de 15 répétitions avec 10 kg",
+            "femmes": "3 séries de 15 répétitions avec 5 kg"
+          }
+        },
+        "avance": {
+          "description": "Effectuez des squats avec une barre chargée sur les épaules.",
+          "repetitions": {
+            "hommes": "4 séries de 12 répétitions avec 40 kg",
+            "femmes": "4 séries de 12 répétitions avec 20 kg"
+          }
+        }
+      },
+      "materiel": "Poids libres (haltères ou barre)",
+      "type_entrainement": ["Musculation", "HIIT", "CrossFit"]
+    },
+    {
+      "nom": "Planche",
+      "niveau": {
+        "debutant": {
+          "description": "Maintenez une planche sur les genoux et les coudes.",
+          "duree": {
+            "hommes": "3 séries de 20 secondes",
+            "femmes": "3 séries de 20 secondes"
+          }
+        },
+        "intermediaire": {
+          "description": "Maintenez une planche sur les orteils et les coudes.",
+          "duree": {
+            "hommes": "3 séries de 45 secondes",
+            "femmes": "3 séries de 45 secondes"
+          }
+        },
+        "avance": {
+          "description": "Maintenez une planche sur les orteils et les mains, et soulevez une jambe alternativement.",
+          "duree": {
+            "hommes": "4 séries de 60 secondes",
+            "femmes": "4 séries de 60 secondes"
+          }
+        }
+      },
+      "materiel": "Aucun",
+      "type_entrainement": ["Yoga", "Pilates", "HIIT"]
+    },
+    {
+      "nom": "Pompes",
+      "niveau": {
+        "debutant": {
+          "description": "Effectuez des pompes sur les genoux.",
+          "repetitions": {
+            "hommes": "3 séries de 8 répétitions",
+            "femmes": "3 séries de 10 répétitions"
+          }
+        },
+        "intermediaire": {
+          "description": "Effectuez des pompes classiques sur les orteils.",
+          "repetitions": {
+            "hommes": "3 séries de 15 répétitions",
+            "femmes": "3 séries de 12 répétitions"
+          }
+        },
+        "avance": {
+          "description": "Effectuez des pompes avec les pieds surélevés sur une boîte ou un banc.",
+          "repetitions": {
+            "hommes": "4 séries de 12 répétitions",
+            "femmes": "4 séries de 10 répétitions"
+          }
+        }
+      },
+      "materiel": "Banc ou boîte (pour niveau avancé)",
+      "type_entrainement": ["Musculation", "HIIT", "CrossFit", "Bootcamp"]
+    },
+    {
+      "nom": "Fentes",
+      "niveau": {
+        "debutant": {
+          "description": "Effectuez des fentes sans poids, en alternant les jambes.",
+          "repetitions": {
+            "hommes": "3 séries de 10 répétitions par jambe",
+            "femmes": "3 séries de 12 répétitions par jambe"
+          }
+        },
+        "intermediaire": {
+          "description": "Effectuez des fentes avec un haltère léger dans chaque main.",
+          "repetitions": {
+            "hommes": "3 séries de 12 répétitions par jambe avec 10 kg",
+            "femmes": "3 séries de 12 répétitions par jambe avec 5 kg"
+          }
+        },
+        "avance": {
+          "description": "Effectuez des fentes avec une barre chargée sur les épaules.",
+          "repetitions": {
+            "hommes": "4 séries de 15 répétitions par jambe avec 30 kg",
+            "femmes": "4 séries de 15 répétitions par jambe avec 20 kg"
+          }
+        }
+      },
+      "materiel": "Poids libres (haltères ou barre)",
+      "type_entrainement": ["Musculation", "HIIT", "CrossFit", "Bootcamp"]
+    },
+    {
+      "nom": "Mountain Climbers",
+      "niveau": {
+        "debutant": {
+          "description": "Effectuez des mountain climbers à un rythme modéré.",
+          "duree": {
+            "hommes": "3 séries de 20 secondes",
+            "femmes": "3 séries de 20 secondes"
+          }
+        },
+        "intermediaire": {
+          "description": "Effectuez des mountain climbers à un rythme rapide.",
+          "duree": {
+            "hommes": "3 séries de 40 secondes",
+            "femmes": "3 séries de 40 secondes"
+          }
+        },
+        "avance": {
+          "description": "Effectuez des mountain climbers à un rythme rapide avec des pauses minimales entre les séries.",
+          "duree": {
+            "hommes": "4 séries de 60 secondes",
+            "femmes": "4 séries de 60 secondes"
+          }
+        }
+      },
+      "materiel": "Aucun",
+      "type_entrainement": ["HIIT", "CrossFit", "Bootcamp"]
+    },
+    {
+      "nom": "Russian Twists",
+      "niveau": {
+        "debutant": {
+          "description": "Effectuez des Russian Twists sans poids.",
+          "repetitions": {
+            "hommes": "3 séries de 20 répétitions",
+            "femmes": "3 séries de 20 répétitions"
+          }
+        },
+        "intermediaire": {
+          "description": "Effectuez des Russian Twists avec un haltère léger.",
+          "repetitions": {
+            "hommes": "3 séries de 30 répétitions avec 5 kg",
+            "femmes": "3 séries de 30 répétitions avec 2,5 kg"
+          }
+        },
+        "avance": {
+          "description": "Effectuez des Russian Twists avec un haltère plus lourd ou une médecine ball.",
+          "repetitions": {
+            "hommes": "4 séries de 40 répétitions avec 10 kg",
+            "femmes": "4 séries de 40 répétitions avec 5 kg"
+          }
+        }
+      },
+      "materiel": "Haltère ou médecine ball",
+      "type_entrainement": ["Musculation", "HIIT", "Core Training"]
+    },
+    {
+      "nom": "Burpees",
+      "niveau": {
+        "debutant": {
+          "description": "Effectuez des burpees sans saut à la fin.",
+          "repetitions": {
+            "hommes": "3 séries de 8 répétitions",
+            "femmes": "3 séries de 8 répétitions"
+          }
+        },
+        "intermediaire": {
+          "description": "Effectuez des burpees classiques avec un saut à la fin.",
+          "repetitions": {
+            "hommes": "3 séries de 12 répétitions",
+            "femmes": "3 séries de 12 répétitions"
+          }
+        },
+        "avance": {
+          "description": "Effectuez des burpees avec un saut plus haut et un push-up dans la descente.",
+          "repetitions": {
+            "hommes": "4 séries de 15 répétitions",
+            "femmes": "4 séries de 15 répétitions"
+          }
+        }
+      },
+      "materiel": "Aucun",
+      "type_entrainement": ["HIIT", "CrossFit", "Bootcamp"]
+    },
+    {
+      "nom": "Deadlifts",
+      "niveau": {
+        "debutant": {
+          "description": "Effectuez des deadlifts avec une barre légère ou un haltère.",
+          "poids": {
+            "hommes": "20 kg",
+            "femmes": "10 kg"
+          }
+        },
+        "intermediaire": {
+          "description": "Effectuez des deadlifts avec une barre modérément chargée.",
+          "poids": {
+            "hommes": "40 kg",
+            "femmes": "20 kg"
+          }
+        },
+        "avance": {
+          "description": "Effectuez des deadlifts avec une barre lourdement chargée.",
+          "poids": {
+            "hommes": "60 kg",
+            "femmes": "30 kg"
+          }
+        }
+      },
+      "materiel": "Barre et poids",
+      "type_entrainement": ["Musculation", "CrossFit"]
+    },
+    {
+      "nom": "Leg Raises",
+      "niveau": {
+        "debutant": {
+          "description": "Allongé sur le dos, levez les jambes à 45 degrés et abaissez lentement.",
+          "repetitions": {
+            "hommes": "3 séries de 12 répétitions",
+            "femmes": "3 séries de 12 répétitions"
+          }
+        },
+        "intermediaire": {
+          "description": "Allongé sur le dos, levez les jambes à 90 degrés et abaissez lentement.",
+          "repetitions": {
+            "hommes": "3 séries de 15 répétitions",
+            "femmes": "3 séries de 15 répétitions"
+          }
+        },
+        "avance": {
+          "description": "Suspendez-vous à une barre de traction et levez les jambes à 90 degrés.",
+          "repetitions": {
+            "hommes": "4 séries de 12 répétitions",
+            "femmes": "4 séries de 12 répétitions"
+          }
+        }
+      },
+      "materiel": "Barre de traction (pour niveau avancé)",
+      "type_entrainement": ["Core Training", "Musculation", "HIIT"]
+    },
+    {
+      "nom": "Triceps Dips",
+      "niveau": {
+        "debutant": {
+          "description": "Effectuez des dips avec les mains sur une chaise et les pieds au sol.",
+          "repetitions": {
+            "hommes": "3 séries de 10 répétitions",
+            "femmes": "3 séries de 12 répétitions"
+          }
+        },
+        "intermediaire": {
+          "description": "Effectuez des dips avec les mains sur une chaise et les pieds sur une autre chaise.",
+          "repetitions": {
+            "hommes": "3 séries de 15 répétitions",
+            "femmes": "3 séries de 15 répétitions"
+          }
+        },
+        "avance": {
+          "description": "Effectuez des dips sur des barres parallèles en salle de sport.",
+          "repetitions": {
+            "hommes": "4 séries de 12 répétitions",
+            "femmes": "4 séries de 12 répétitions"
+          }
+        }
+      },
+      "materiel": "Chaise ou barres parallèles",
+      "type_entrainement": ["Musculation", "HIIT", "CrossFit"]
+    },
+    {
+      "nom": "Lunges",
+      "niveau": {
+        "debutant": {
+          "description": "Effectuez des fentes statiques en alternant les jambes sans poids.",
+          "repetitions": {
+            "hommes": "3 séries de 10 répétitions par jambe",
+            "femmes": "3 séries de 12 répétitions par jambe"
+          }
+        },
+        "intermediaire": {
+          "description": "Effectuez des fentes en marchant avec des haltères légers.",
+          "repetitions": {
+            "hommes": "3 séries de 12 répétitions par jambe avec 5 kg",
+            "femmes": "3 séries de 12 répétitions par jambe avec 2,5 kg"
+          }
+        },
+        "avance": {
+          "description": "Effectuez des fentes avec une barre chargée sur les épaules.",
+          "repetitions": {
+            "hommes": "4 séries de 15 répétitions par jambe avec 20 kg",
+            "femmes": "4 séries de 15 répétitions par jambe avec 10 kg"
+          }
+        }
+      },
+      "materiel": "Haltères ou barre",
+      "type_entrainement": ["Musculation", "HIIT", "CrossFit"]
+    },
+    {
+      "nom": "Jumping Jacks",
+      "niveau": {
+        "debutant": {
+          "description": "Effectuez des jumping jacks à un rythme modéré.",
+          "duree": {
+            "hommes": "3 séries de 30 secondes",
+            "femmes": "3 séries de 30 secondes"
+          }
+        },
+        "intermediaire": {
+          "description": "Effectuez des jumping jacks à un rythme rapide.",
+          "duree": {
+            "hommes": "3 séries de 45 secondes",
+            "femmes": "3 séries de 45 secondes"
+          }
+        },
+        "avance": {
+          "description": "Effectuez des jumping jacks avec des poids aux chevilles.",
+          "duree": {
+            "hommes": "4 séries de 60 secondes",
+            "femmes": "4 séries de 60 secondes"
+          }
+        }
+      },
+      "materiel": "Poids aux chevilles (pour niveau avancé)",
+      "type_entrainement": ["HIIT", "Cardio", "Bootcamp"]
+    },
+    {
+      "nom": "Bicep Curls",
+      "niveau": {
+        "debutant": {
+          "description": "Effectuez des curls avec des haltères légers.",
+          "poids": {
+            "hommes": "5 kg",
+            "femmes": "2,5 kg"
+          }
+        },
+        "intermediaire": {
+          "description": "Effectuez des curls avec des haltères modérés.",
+          "poids": {
+            "hommes": "10 kg",
+            "femmes": "5 kg"
+          }
+        },
+        "avance": {
+          "description": "Effectuez des curls avec des haltères lourds ou une barre.",
+          "poids": {
+            "hommes": "15 kg ou 30 kg (barre)",
+            "femmes": "7,5 kg ou 20 kg (barre)"
+          }
+        }
+      },
+      "materiel": "Haltères ou barre",
+      "type_entrainement": ["Musculation"]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "entrainements": [
+    {
+      "type": "Yoga",
+      "description": "Une pratique physique, mentale et spirituelle originaire de l'Inde ancienne, visant à améliorer la flexibilité, la force et la relaxation.",
+      "duree_moyenne": "60 minutes"
+    },
+    {
+      "type": "HIIT",
+      "description": "Entraînement par intervalles à haute intensité, alternant des périodes d'effort intense et de récupération, conçu pour brûler des calories et améliorer la condition physique en peu de temps.",
+      "duree_moyenne": "30 minutes"
+    },
+    {
+      "type": "Tabata",
+      "description": "Une forme spécifique de HIIT composée de 8 séries de 20 secondes d'exercice intense suivies de 10 secondes de repos, souvent utilisée pour améliorer la condition physique et la perte de poids.",
+      "duree_moyenne": "4 minutes"
+    },
+    {
+      "type": "Pilates",
+      "description": "Un entraînement qui se concentre sur le renforcement des muscles profonds, l'amélioration de la posture, la flexibilité et l'équilibre.",
+      "duree_moyenne": "45 minutes"
+    },
+    {
+      "type": "CrossFit",
+      "description": "Un programme de conditionnement physique varié et fonctionnel, intégrant des mouvements de force, d'endurance et d'agilité.",
+      "duree_moyenne": "60 minutes"
+    },
+    {
+      "type": "Zumba",
+      "description": "Un programme de fitness basé sur des chorégraphies inspirées des danses latines, conçu pour être amusant et brûler des calories.",
+      "duree_moyenne": "60 minutes"
+    },
+    {
+      "type": "Musculation",
+      "description": "Un entraînement visant à renforcer et à développer la masse musculaire à l'aide de poids libres, de machines ou de poids corporels.",
+      "duree_moyenne": "60 minutes"
+    },
+    {
+      "type": "Étirements",
+      "description": "Des exercices visant à améliorer la flexibilité et la mobilité des muscles et des articulations, souvent réalisés après un entraînement pour favoriser la récupération.",
+      "duree_moyenne": "15-30 minutes"
+    },
+    {
+      "type": "Tai Chi",
+      "description": "Un art martial chinois traditionnel pratiqué pour ses bienfaits sur la santé, alliant mouvements lents et fluides avec une respiration contrôlée.",
+      "duree_moyenne": "60 minutes"
+    },
+    {
+      "type": "Body Pump",
+      "description": "Un cours de fitness en groupe utilisant des poids légers à modérés avec des répétitions élevées, visant à tonifier et renforcer le corps.",
+      "duree_moyenne": "60 minutes"
+    },
+    {
+      "type": "Circuit Training",
+      "description": "Un type d'entraînement qui consiste à réaliser une série d'exercices dans un ordre précis avec peu ou pas de repos entre les exercices, pour améliorer la force et l'endurance.",
+      "duree_moyenne": "30-60 minutes"
+    },
+    {
+      "type": "Bootcamp",
+      "description": "Un entraînement intensif qui combine des exercices cardiovasculaires et de renforcement musculaire, souvent réalisé en groupe et inspiré des entraînements militaires.",
+      "duree_moyenne": "60 minutes"
+    },
+    {
+      "type": "Spinning",
+      "description": "Un entraînement de cyclisme en salle dirigé par un instructeur, utilisant des vélos stationnaires et des variations d'intensité pour améliorer la condition cardiovasculaire.",
+      "duree_moyenne": "45 minutes"
+    },
+    {
+      "type": "Core Training",
+      "description": "Un entraînement ciblant les muscles du tronc (abdominaux, obliques, bas du dos) pour améliorer la stabilité, l'équilibre et la force.",
+      "duree_moyenne": "30 minutes"
+    },
+    {
+      "type": "Step Aerobics",
+      "description": "Un entraînement cardio utilisant une plateforme surélevée (step) pour réaliser des mouvements chorégraphiés, visant à améliorer l'endurance et la coordination.",
+      "duree_moyenne": "45 minutes"
+    },
+    {
+      "type": "Barre",
+      "description": "Un entraînement inspiré du ballet combinant des mouvements de danse, de Pilates et de yoga pour tonifier et sculpter le corps.",
+      "duree_moyenne": "60 minutes"
+    },
+    {
+      "type": "Kickboxing",
+      "description": "Un entraînement combinant des techniques de boxe et d'arts martiaux, conçu pour améliorer la condition physique, la force et l'endurance.",
+      "duree_moyenne": "60 minutes"
+    }
+  ]
+}
