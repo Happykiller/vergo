@@ -1,0 +1,55 @@
+{
+  "regions": [
+    {
+      "nom": "bras",
+      "parties_corporelles": [
+        "épaule",
+        "biceps",
+        "triceps",
+        "avant-bras"
+      ]
+    },
+    {
+      "nom": "épaules",
+      "parties_corporelles": [
+        "deltoïdes",
+        "trapèzes"
+      ]
+    },
+    {
+      "nom": "torse",
+      "parties_corporelles": [
+        "pectoraux",
+        "abdominaux",
+        "obliques"
+      ]
+    },
+    {
+      "nom": "ceinture abdominale",
+      "parties_corporelles": [
+        "abdominaux",
+        "obliques"
+      ]
+    },
+    {
+      "nom": "fesses",
+      "parties_corporelles": [
+        "fessiers"
+      ]
+    },
+    {
+      "nom": "haut des jambes",
+      "parties_corporelles": [
+        "quadriceps",
+        "ischios-jambiers"
+      ]
+    },
+    {
+      "nom": "bas des jambes",
+      "parties_corporelles": [
+        "mollets",
+        "tibias"
+      ]
+    }
+  ]
+}
