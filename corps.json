@@ -19,9 +19,7 @@
     {
       "nom": "torse",
       "parties_corporelles": [
-        "pectoraux",
-        "abdominaux",
-        "obliques"
+        "pectoraux"
       ]
     },
     {
@@ -41,7 +39,8 @@
       "nom": "haut des jambes",
       "parties_corporelles": [
         "quadriceps",
-        "ischios-jambiers"
+        "ischios-jambiers", 
+        "aducteurs"
       ]
     },
     {
