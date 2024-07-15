@@ -1,6 +1,358 @@
 {
   "exercices": [
     {
+      "nom": "Quadriceps Stretch",
+      "slug": "quadriceps_stretch",
+      "niveau": {
+        "debutant": {
+          "description": "Tenez-vous debout et attrapez votre cheville pour amener votre talon vers vos fesses. Maintenez la position.",
+          "duree": {
+            "hommes": "3 séries de 20 secondes par jambe",
+            "femmes": "3 séries de 20 secondes par jambe"
+          }
+        },
+        "intermediaire": {
+          "description": "Tenez-vous debout et attrapez votre cheville pour amener votre talon vers vos fesses. Maintenez la position et essayez d'améliorer l'étirement progressivement.",
+          "duree": {
+            "hommes": "3 séries de 30 secondes par jambe",
+            "femmes": "3 séries de 30 secondes par jambe"
+          }
+        },
+        "avance": {
+          "description": "Tenez-vous debout, attrapez votre cheville et amenez votre talon vers vos fesses tout en maintenant un équilibre parfait. Essayez de rapprocher le talon le plus près possible des fesses.",
+          "duree": {
+            "hommes": "4 séries de 45 secondes par jambe",
+            "femmes": "4 séries de 45 secondes par jambe"
+          }
+        }
+      },
+      "materiel": "Aucun",
+      "type_entrainement": [
+        "Échauffement",
+        "Mobilité",
+        "Récupération"
+      ],
+      "parties_corporelles": {
+        "quadriceps": "élevée",
+        "ischio-jambiers": "modérée",
+        "fessiers": "faible",
+        "abdominaux": "faible"
+      }
+    },    
+    {
+      "nom": "Jumping Lunges",
+      "slug": "jumping_lunges",
+      "niveau": {
+        "debutant": {
+          "description": "Effectuez des fentes en sautant légèrement et en changeant de jambe à chaque saut.",
+          "repetitions": {
+            "hommes": "3 séries de 10 répétitions par jambe",
+            "femmes": "3 séries de 10 répétitions par jambe"
+          }
+        },
+        "intermediaire": {
+          "description": "Effectuez des jumping lunges avec des sauts plus explosifs, en vous assurant d'atterrir doucement.",
+          "repetitions": {
+            "hommes": "3 séries de 15 répétitions par jambe",
+            "femmes": "3 séries de 15 répétitions par jambe"
+          }
+        },
+        "avance": {
+          "description": "Effectuez des jumping lunges en tenant des poids légers pour augmenter la résistance.",
+          "repetitions": {
+            "hommes": "4 séries de 20 répétitions par jambe avec 2,5 kg",
+            "femmes": "4 séries de 20 répétitions par jambe avec 1 kg"
+          }
+        }
+      },
+      "materiel": "Poids libres (facultatif)",
+      "type_entrainement": [
+        "Plyométrie",
+        "HIIT",
+        "Musculation"
+      ],
+      "parties_corporelles": {
+        "quadriceps": "élevée",
+        "ischio-jambiers": "élevée",
+        "fessiers": "élevée",
+        "abdominaux": "modérée",
+        "mollets": "modérée"
+      }
+    },    
+    {
+      "nom": "Jump Squat",
+      "slug": "jump_squat",
+      "niveau": {
+        "debutant": {
+          "description": "Effectuez des squats normaux en ajoutant un petit saut à la fin de chaque squat.",
+          "repetitions": {
+            "hommes": "3 séries de 10 répétitions",
+            "femmes": "3 séries de 10 répétitions"
+          }
+        },
+        "intermediaire": {
+          "description": "Effectuez des jump squats avec un saut plus explosif, en vous assurant d'atterrir doucement.",
+          "repetitions": {
+            "hommes": "3 séries de 15 répétitions",
+            "femmes": "3 séries de 15 répétitions"
+          }
+        },
+        "avance": {
+          "description": "Effectuez des jump squats en tenant des poids légers dans chaque main pour augmenter la résistance.",
+          "repetitions": {
+            "hommes": "4 séries de 20 répétitions avec 5 kg",
+            "femmes": "4 séries de 20 répétitions avec 2,5 kg"
+          }
+        }
+      },
+      "materiel": "Poids libres (facultatif)",
+      "type_entrainement": [
+        "Plyométrie",
+        "HIIT",
+        "Musculation"
+      ],
+      "parties_corporelles": {
+        "quadriceps": "élevée",
+        "ischio-jambiers": "modérée",
+        "fessiers": "élevée",
+        "abdominaux": "modérée",
+        "mollets": "modérée"
+      }
+    },    
+    {
+      "nom": "Mountain Climbers",
+      "slug": "mountain_climbers",
+      "niveau": {
+        "debutant": {
+          "description": "Effectuez des mountain climbers à un rythme modéré.",
+          "duree": {
+            "hommes": "3 séries de 20 secondes",
+            "femmes": "3 séries de 20 secondes"
+          }
+        },
+        "intermediaire": {
+          "description": "Effectuez des mountain climbers à un rythme rapide.",
+          "duree": {
+            "hommes": "3 séries de 40 secondes",
+            "femmes": "3 séries de 40 secondes"
+          }
+        },
+        "avance": {
+          "description": "Effectuez des mountain climbers à un rythme rapide avec des pauses minimales entre les séries.",
+          "duree": {
+            "hommes": "4 séries de 60 secondes",
+            "femmes": "4 séries de 60 secondes"
+          }
+        }
+      },
+      "materiel": "Aucun",
+      "type_entrainement": [
+        "HIIT",
+        "CrossFit",
+        "Bootcamp"
+      ],
+      "parties_corporelles": {
+        "abdominaux": "élevée",
+        "épaules": "modérée",
+        "quadriceps": "modérée",
+        "fessiers": "modérée"
+      }
+    },    
+    {
+      "nom": "High Knees",
+      "slug": "high_knees",
+      "niveau": {
+        "debutant": {
+          "description": "Effectuez des high knees à un rythme modéré en levant les genoux à hauteur de hanche.",
+          "duree": {
+            "hommes": "3 séries de 30 secondes",
+            "femmes": "3 séries de 30 secondes"
+          }
+        },
+        "intermediaire": {
+          "description": "Effectuez des high knees à un rythme rapide en levant les genoux aussi haut que possible.",
+          "duree": {
+            "hommes": "3 séries de 45 secondes",
+            "femmes": "3 séries de 45 secondes"
+          }
+        },
+        "avance": {
+          "description": "Effectuez des high knees à un rythme très rapide avec des pauses minimales entre les séries.",
+          "duree": {
+            "hommes": "4 séries de 60 secondes",
+            "femmes": "4 séries de 60 secondes"
+          }
+        }
+      },
+      "materiel": "Aucun",
+      "type_entrainement": [
+        "Cardio",
+        "HIIT",
+        "Endurance"
+      ],
+      "parties_corporelles": {
+        "quadriceps": "élevée",
+        "ischio-jambiers": "modérée",
+        "fessiers": "élevée",
+        "abdominaux": "élevée",
+        "mollets": "modérée"
+      }
+    },    
+    {
+      "nom": "Leg Swings",
+      "slug": "leg_swings",
+      "niveau": {
+        "debutant": {
+          "description": "Effectuez des balancements de jambes en avant et en arrière en gardant le tronc stable.",
+          "repetitions": {
+            "hommes": "3 séries de 10 répétitions par jambe",
+            "femmes": "3 séries de 10 répétitions par jambe"
+          }
+        },
+        "intermediaire": {
+          "description": "Effectuez des balancements de jambes latéraux en plus des balancements avant-arrière.",
+          "repetitions": {
+            "hommes": "3 séries de 15 répétitions par jambe",
+            "femmes": "3 séries de 15 répétitions par jambe"
+          }
+        },
+        "avance": {
+          "description": "Effectuez des balancements de jambes avec des poids aux chevilles pour augmenter la résistance.",
+          "repetitions": {
+            "hommes": "4 séries de 20 répétitions par jambe avec 1 kg",
+            "femmes": "4 séries de 20 répétitions par jambe avec 0,5 kg"
+          }
+        }
+      },
+      "materiel": "Poids aux chevilles (facultatif)",
+      "type_entrainement": [
+        "Échauffement",
+        "Mobilité",
+        "Dynamique"
+      ],
+      "parties_corporelles": {
+        "quadriceps": "modérée",
+        "ischio-jambiers": "modérée",
+        "fessiers": "élevée",
+        "abdominaux": "faible"
+      }
+    },    
+    {
+      "nom": "Corde à sauter",
+      "slug": "jumping_rope",
+      "niveau": {
+        "debutant": {
+          "description": "Effectuez des sauts simples avec la corde à un rythme modéré.",
+          "duree": {
+            "hommes": "3 séries de 30 secondes",
+            "femmes": "3 séries de 30 secondes"
+          }
+        },
+        "intermediaire": {
+          "description": "Effectuez des sauts alternés avec un rythme plus rapide.",
+          "duree": {
+            "hommes": "3 séries de 45 secondes",
+            "femmes": "3 séries de 45 secondes"
+          }
+        },
+        "avance": {
+          "description": "Effectuez des doubles sauts ou des mouvements complexes avec la corde.",
+          "duree": {
+            "hommes": "4 séries de 60 secondes",
+            "femmes": "4 séries de 60 secondes"
+          }
+        }
+      },
+      "materiel": "Corde à sauter",
+      "type_entrainement": [
+        "Cardio",
+        "HIIT",
+        "Endurance"
+      ],
+      "parties_corporelles": {
+        "quadriceps": "élevée",
+        "mollets": "élevée",
+        "fessiers": "modérée",
+        "abdominaux": "modérée",
+        "épaules": "modérée"
+      }
+    },    
+    {
+      "nom": "Arm Circles",
+      "niveau": {
+        "debutant": {
+          "description": "Effectuez des cercles avec les bras dans les deux sens en gardant les bras tendus.",
+          "duree": {
+            "hommes": "3 séries de 30 secondes par sens",
+            "femmes": "3 séries de 30 secondes par sens"
+          }
+        },
+        "intermediaire": {
+          "description": "Effectuez des cercles avec les bras en tenant des poids légers dans les mains.",
+          "duree": {
+            "hommes": "3 séries de 45 secondes par sens avec 1 kg",
+            "femmes": "3 séries de 45 secondes par sens avec 0,5 kg"
+          }
+        },
+        "avance": {
+          "description": "Effectuez des cercles avec les bras en tenant des poids plus lourds dans les mains et en augmentant la vitesse.",
+          "duree": {
+            "hommes": "4 séries de 60 secondes par sens avec 2 kg",
+            "femmes": "4 séries de 60 secondes par sens avec 1 kg"
+          }
+        }
+      },
+      "materiel": "Poids légers (facultatif)",
+      "type_entrainement": [
+        "Échauffement",
+        "Mobilité",
+        "HIIT"
+      ],
+      "parties_corporelles": {
+        "épaules": "élevée",
+        "bras": "modérée",
+        "abdominaux": "faible"
+      }
+    },    
+    {
+      "nom": "Jumping Jacks",
+      "niveau": {
+        "debutant": {
+          "description": "Effectuez des jumping jacks en maintenant un rythme modéré.",
+          "repetitions": {
+            "hommes": "3 séries de 20 répétitions",
+            "femmes": "3 séries de 20 répétitions"
+          }
+        },
+        "intermediaire": {
+          "description": "Effectuez des jumping jacks à un rythme plus rapide avec des mouvements amples.",
+          "repetitions": {
+            "hommes": "4 séries de 25 répétitions",
+            "femmes": "4 séries de 25 répétitions"
+          }
+        },
+        "avance": {
+          "description": "Effectuez des jumping jacks en ajoutant un mouvement de squat à chaque saut.",
+          "repetitions": {
+            "hommes": "4 séries de 30 répétitions",
+            "femmes": "4 séries de 30 répétitions"
+          }
+        }
+      },
+      "materiel": "Aucun matériel nécessaire",
+      "type_entrainement": [
+        "Cardio",
+        "HIIT"
+      ],
+      "parties_corporelles": {
+        "quadriceps": "modérée",
+        "ischio-jambiers": "faible",
+        "fessiers": "modérée",
+        "abdominaux": "élevée",
+        "épaules": "élevée"
+      }
+    },
+    {
       "nom": "Squat",
       "niveau": {
         "debutant": {
@@ -26,7 +378,11 @@
         }
       },
       "materiel": "Poids libres (haltères ou barre)",
-      "type_entrainement": ["Musculation", "HIIT", "CrossFit"],
+      "type_entrainement": [
+        "Musculation",
+        "HIIT",
+        "CrossFit"
+      ],
       "parties_corporelles": {
         "quadriceps": "élevée",
         "ischio-jambiers": "modérée",
@@ -61,7 +417,11 @@
         }
       },
       "materiel": "Aucun",
-      "type_entrainement": ["Yoga", "Pilates", "HIIT"],
+      "type_entrainement": [
+        "Yoga",
+        "Pilates",
+        "HIIT"
+      ],
       "parties_corporelles": {
         "abdominaux": "élevée",
         "épaules": "modérée",
@@ -71,6 +431,7 @@
     },
     {
       "nom": "Pompes",
+      "slug": "push-ups",
       "niveau": {
         "debutant": {
           "description": "Effectuez des pompes sur les genoux.",
@@ -95,7 +456,12 @@
         }
       },
       "materiel": "Banc ou boîte (pour niveau avancé)",
-      "type_entrainement": ["Musculation", "HIIT", "CrossFit", "Bootcamp"],
+      "type_entrainement": [
+        "Musculation",
+        "HIIT",
+        "CrossFit",
+        "Bootcamp"
+      ],
       "parties_corporelles": {
         "pectoraux": "élevée",
         "triceps": "élevée",
@@ -129,7 +495,12 @@
         }
       },
       "materiel": "Poids libres (haltères ou barre)",
-      "type_entrainement": ["Musculation", "HIIT", "CrossFit", "Bootcamp"],
+      "type_entrainement": [
+        "Musculation",
+        "HIIT",
+        "CrossFit",
+        "Bootcamp"
+      ],
       "parties_corporelles": {
         "quadriceps": "élevée",
         "ischio-jambiers": "élevée",
@@ -163,7 +534,11 @@
         }
       },
       "materiel": "Aucun",
-      "type_entrainement": ["HIIT", "CrossFit", "Bootcamp"],
+      "type_entrainement": [
+        "HIIT",
+        "CrossFit",
+        "Bootcamp"
+      ],
       "parties_corporelles": {
         "abdominaux": "élevée",
         "épaules": "modérée",
@@ -173,6 +548,7 @@
     },
     {
       "nom": "Russian Twists",
+      "slug": "russian_twists",
       "niveau": {
         "debutant": {
           "description": "Effectuez des Russian Twists sans poids.",
@@ -197,7 +573,11 @@
         }
       },
       "materiel": "Haltère ou médecine ball",
-      "type_entrainement": ["Musculation", "HIIT", "Core Training"],
+      "type_entrainement": [
+        "Musculation",
+        "HIIT",
+        "Core Training"
+      ],
       "parties_corporelles": {
         "abdominaux": "élevée",
         "obliques": "élevée",
@@ -206,6 +586,7 @@
     },
     {
       "nom": "Burpees",
+      "slug": "burpees",
       "niveau": {
         "debutant": {
           "description": "Effectuez des burpees sans saut à la fin.",
@@ -230,7 +611,11 @@
         }
       },
       "materiel": "Aucun",
-      "type_entrainement": ["HIIT", "CrossFit", "Bootcamp"],
+      "type_entrainement": [
+        "HIIT",
+        "CrossFit",
+        "Bootcamp"
+      ],
       "parties_corporelles": {
         "quadriceps": "élevée",
         "pectoraux": "modérée",
