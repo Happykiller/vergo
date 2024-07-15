@@ -1,6 +1,45 @@
 {
   "exercices": [
     {
+      "nom": "Single-Leg Glute Bridge",
+      "slug": "single_leg_glute_bridge",
+      "niveau": {
+        "debutant": {
+          "description": "Allongez-vous sur le dos, une jambe pliée et l'autre levée. Soulevez les hanches en utilisant la jambe pliée.",
+          "repetitions": {
+            "hommes": "3 séries de 10 répétitions par jambe",
+            "femmes": "3 séries de 10 répétitions par jambe"
+          }
+        },
+        "intermediaire": {
+          "description": "Allongez-vous sur le dos, une jambe pliée et l'autre levée. Soulevez les hanches en utilisant la jambe pliée tout en maintenant la position en haut pendant quelques secondes.",
+          "repetitions": {
+            "hommes": "3 séries de 15 répétitions par jambe",
+            "femmes": "3 séries de 15 répétitions par jambe"
+          }
+        },
+        "avance": {
+          "description": "Allongez-vous sur le dos, une jambe pliée et l'autre levée. Soulevez les hanches en utilisant la jambe pliée en tenant un poids léger sur vos hanches.",
+          "repetitions": {
+            "hommes": "4 séries de 20 répétitions par jambe avec 5 kg",
+            "femmes": "4 séries de 20 répétitions par jambe avec 2,5 kg"
+          }
+        }
+      },
+      "materiel": "Poids libres (facultatif)",
+      "type_entrainement": [
+        "Renforcement musculaire",
+        "HIIT",
+        "Pilates"
+      ],
+      "parties_corporelles": {
+        "fessiers": "élevée",
+        "ischio-jambiers": "élevée",
+        "bas du dos": "modérée",
+        "abdominaux": "modérée"
+      }
+    },    
+    {
       "nom": "Quadriceps Stretch",
       "slug": "quadriceps_stretch",
       "niveau": {
