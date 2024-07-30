@@ -1,0 +1,351 @@
+{
+  "workouts": [
+    {
+      "slug": "yoga",
+      "description": "A physical, mental, and spiritual practice originating from ancient India, aimed at improving flexibility, strength, and relaxation.",
+      "average_duration": 60
+    },
+    {
+      "slug": "hiit",
+      "description": "High-intensity interval training, alternating periods of intense effort and recovery, designed to burn calories and improve fitness in a short amount of time.",
+      "average_duration": 30
+    },
+    {
+      "slug": "tabata",
+      "description": "A specific form of HIIT consisting of 8 sets of 20 seconds of intense exercise followed by 10 seconds of rest, often used to improve fitness and weight loss.",
+      "average_duration": 4
+    },
+    {
+      "slug": "pilates",
+      "description": "A workout focusing on strengthening deep muscles, improving posture, flexibility, and balance.",
+      "average_duration": 45
+    },
+    {
+      "slug": "crossfit",
+      "description": "A varied and functional fitness program integrating strength, endurance, and agility movements.",
+      "average_duration": 60
+    },
+    {
+      "slug": "zumba",
+      "description": "A fitness program based on choreographies inspired by Latin dances, designed to be fun and burn calories.",
+      "average_duration": 60
+    },
+    {
+      "slug": "strength_training",
+      "description": "A workout aimed at strengthening and developing muscle mass using free weights, machines, or body weight.",
+      "average_duration": 60
+    },
+    {
+      "slug": "stretching",
+      "description": "Exercises aimed at improving flexibility and mobility of muscles and joints, often performed after a workout to promote recovery.",
+      "average_duration": 15
+    },
+    {
+      "slug": "tai_chi",
+      "description": "A traditional Chinese martial art practiced for its health benefits, combining slow and fluid movements with controlled breathing.",
+      "average_duration": 60
+    },
+    {
+      "slug": "body_pump",
+      "description": "A group fitness class using light to moderate weights with high repetitions, aimed at toning and strengthening the body.",
+      "average_duration": 60
+    },
+    {
+      "slug": "circuit_training",
+      "description": "A type of workout that involves performing a series of exercises in a specific order with little or no rest between exercises, to improve strength and endurance.",
+      "average_duration": 30
+    },
+    {
+      "slug": "bootcamp",
+      "description": "An intensive workout combining cardiovascular and strength exercises, often performed in a group and inspired by military training.",
+      "average_duration": 60
+    },
+    {
+      "slug": "spinning",
+      "description": "An indoor cycling workout led by an instructor, using stationary bikes and intensity variations to improve cardiovascular fitness.",
+      "average_duration": 45
+    },
+    {
+      "slug": "core_training",
+      "description": "A workout targeting the core muscles (abs, obliques, lower back) to improve stability, balance, and strength.",
+      "average_duration": 30
+    },
+    {
+      "slug": "step_aerobics",
+      "description": "A cardio workout using an elevated platform (step) to perform choreographed movements, aimed at improving endurance and coordination.",
+      "average_duration": 45
+    },
+    {
+      "slug": "barre",
+      "description": "A workout inspired by ballet, combining dance movements, Pilates, and yoga to tone and sculpt the body.",
+      "average_duration": 60
+    },
+    {
+      "slug": "kickboxing",
+      "description": "A workout combining boxing and martial arts techniques, designed to improve fitness, strength, and endurance.",
+      "average_duration": 60
+    },
+    {
+      "slug": "warm_up",
+      "description": "A series of exercises performed before the main workout to prepare the body by gradually increasing heart rate, blood flow, and muscle temperature.",
+      "average_duration": 10
+    },
+    {
+      "slug": "cool_down",
+      "description": "A series of exercises performed after the main workout to gradually lower heart rate, improve flexibility, and aid in muscle recovery.",
+      "average_duration": 10
+    }
+  ],
+  "equipments": [
+    {
+      "slug": "dumbbells",
+      "description": "Free weights available in various sizes, typically ranging from 1 kg to 50 kg."
+    },
+    {
+      "slug": "barbells",
+      "description": "A long bar used with weight plates, commonly ranging from 10 kg to 100 kg or more."
+    },
+    {
+      "slug": "kettlebells",
+      "description": "Weights with a handle, available in different sizes, usually ranging from 4 kg to 32 kg."
+    },
+    {
+      "slug": "resistance_bands",
+      "description": "Elastic bands available in different resistances, typically categorized as light, medium, heavy, and extra heavy."
+    },
+    {
+      "slug": "yoga_mats",
+      "description": "Mats used for yoga and Pilates to provide cushioning and support."
+    },
+    {
+      "slug": "exercise_balls",
+      "description": "Large inflatable balls used for stability and core exercises, commonly available in sizes from 55 cm to 75 cm."
+    },
+    {
+      "slug": "benches",
+      "description": "Flat, incline, or decline benches used for various strength training exercises."
+    },
+    {
+      "slug": "treadmills",
+      "description": "Machines used for walking or running, with adjustable speeds and inclines."
+    },
+    {
+      "slug": "stationary_bikes",
+      "description": "Indoor cycling machines, including upright, recumbent, and spin bikes."
+    },
+    {
+      "slug": "rowing_machines",
+      "description": "Equipment that simulates rowing, used for cardiovascular and full-body workouts."
+    },
+    {
+      "slug": "ellipticals",
+      "description": "Machines that simulate walking or running with less impact on the joints."
+    },
+    {
+      "slug": "medicine_balls",
+      "description": "Weighted balls used for various strength and conditioning exercises, available in different weights, typically ranging from 1 kg to 10 kg."
+    },
+    {
+      "slug": "jump_ropes",
+      "description": "Ropes used for skipping exercises to improve cardiovascular fitness and coordination."
+    },
+    {
+      "slug": "pull_up_bars",
+      "description": "Bars used for pull-ups and chin-ups, available as wall-mounted or door-mounted."
+    },
+    {
+      "slug": "plyometric_boxes",
+      "description": "Boxes of various heights used for jump training and other plyometric exercises."
+    },
+    {
+      "slug": "foam_rollers",
+      "description": "Cylindrical tools used for self-myofascial release and muscle recovery."
+    },
+    {
+      "slug": "battle_ropes",
+      "description": "Heavy ropes used for high-intensity training and conditioning exercises."
+    },
+    {
+      "slug": "sandbags",
+      "description": "Bags filled with sand, used for strength training, available in various weights."
+    },
+    {
+      "slug": "weight_vests",
+      "description": "Vests with adjustable weights, used to add resistance to bodyweight exercises."
+    },
+    {
+      "slug": "ankle_weights",
+      "description": "Weights that can be strapped around the ankles for added resistance during lower body exercises."
+    }
+  ],
+  "body": [
+    {
+      "slug": "arm",
+      "body_part": [
+        "shoulder",
+        "bicep",
+        "tricep",
+        "forearm"
+      ]
+    },
+    {
+      "slug": "shoulder",
+      "body_part": [
+        "deltoid",
+        "trapezius"
+      ]
+    },
+    {
+      "slug": "chest",
+      "body_part": [
+        "pectoral"
+      ]
+    },
+    {
+      "slug": "abdominal_area",
+      "body_part": [
+        "abdominal",
+        "oblique"
+      ]
+    },
+    {
+      "slug": "glute",
+      "body_part": [
+        "glute"
+      ]
+    },
+    {
+      "slug": "upper_leg",
+      "body_part": [
+        "quadricep",
+        "hamstring", 
+        "adductor"
+      ]
+    },
+    {
+      "slug": "lower_leg",
+      "body_part": [
+        "calf",
+        "shin"
+      ]
+    }
+  ],
+  "RTE" : {
+    "description": "The RTE (Rate of Perceived Exertion) by Borg is a subjective scale used to assess the perceived intensity of physical exercise. It allows individuals to rate their effort based on personal perception, thus facilitating the adjustment of activity levels according to one's capabilities and sensations.",
+    "values": [
+      {
+        "value": 1,
+        "description": "Rest, no effort"
+      },
+      {
+        "value": 2,
+        "description": "Very light, like a slow walk"
+      },
+      {
+        "value": 3,
+        "description": "Very light, you can talk easily"
+      },
+      {
+        "value": 4,
+        "description": "Light effort, you can talk easily but with some difficulty"
+      },
+      {
+        "value": 5,
+        "description": "Light to moderate effort, conversation becomes more difficult"
+      },
+      {
+        "value": 6,
+        "description": "Moderate effort, you start to sweat slightly, breathing accelerates"
+      },
+      {
+        "value": 7,
+        "description": "Moderate to intense effort, breathing becomes heavier"
+      },
+      {
+        "value": 8,
+        "description": "Intense effort, you have difficulty talking, heavy breathing"
+      },
+      {
+        "value": 9,
+        "description": "Very intense effort, almost impossible to talk, significant breathlessness"
+      },
+      {
+        "value": 10,
+        "description": "Maximal effort, unable to continue any longer, total breathlessness"
+      }
+    ]
+  },
+  "exercices": [
+    {
+      "slug": string, // slug of exercice
+      "description": text, // geneal decription
+      "level": {
+        "beginner": {
+          "description": text, // specific description
+          "men": {
+            "duration": int, // time in seconds if the exercice is not numeric
+            "equipments": array, // list of equipments
+            "charge": int, // charge in kg
+            "sets": int, // number of set
+            "reps": int, // number of repetition
+            "iso": boolean, // if for each symetric part, ex leg, arm, shoulder, etc
+            "rest": int // time in seconds for rest
+          },
+          "women": {
+            "duration": int, // time in seconds if the exercice is not numeric
+            "equipments": array, // list of equipments
+            "charge": int, // charge in kg
+            "sets": int, // number of set
+            "reps": int, // number of repetition
+            "iso": boolean, // if for each symetric part, ex leg, arm, shoulder, etc
+            "rest": int // time in seconds for rest
+          }
+        },
+        "intermediate": {
+          "description": text, // specific description
+          "men": {
+            "duration": int, // time in seconds if the exercice is not numeric
+            "equipments": array, // list of equipments
+            "charge": int, // charge in kg
+            "sets": int, // number of set
+            "reps": int, // number of repetition
+            "iso": boolean, // if for each symetric part, ex leg, arm, shoulder, etc
+            "rest": int // time in seconds for rest
+          },
+          "women": {
+            "duration": int, // time in seconds if the exercice is not numeric
+            "equipments": array, // list of equipments
+            "charge": int, // charge in kg
+            "sets": int, // number of set
+            "reps": int, // number of repetition
+            "iso": boolean, // if for each symetric part, ex leg, arm, shoulder, etc
+            "rest": int // time in seconds for rest
+          }
+        },
+        "advanced": {
+          "description": text, // specific description
+          "men": {
+            "duration": int, // time in seconds if the exercice is not numeric
+            "equipments": array, // list of equipments
+            "charge": int, // charge in kg
+            "sets": int, // number of set
+            "reps": int, // number of repetition
+            "iso": boolean, // if for each symetric part, ex leg, arm, shoulder, etc
+            "rest": int // time in seconds for rest
+          },
+          "women": {
+            "duration": int, // time in seconds if the exercice is not numeric
+            "equipments": array, // list of equipments
+            "charge": int, // charge in kg
+            "sets": int, // number of set
+            "reps": int, // number of repetition
+            "iso": boolean, // if for each symetric part, ex leg, arm, shoulder, etc
+            "rest": int // time in seconds for rest
+          }
+        }
+      },
+      "workouts": array, // list of workout for the exercice
+      "body_parts_intensitiy": array // array of body part with intensitiy ex [{glutes: "high"|"moderate"|"low"}]
+    }
+  ]
+}

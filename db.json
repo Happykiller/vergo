@@ -1,0 +1,78 @@
+{
+  "slug": "jumping_jacks",
+  "description": "A full-body exercise that increases heart rate and warms up muscles in preparation for more intense physical activity.",
+  "level": {
+    "beginner": {
+      "description": "Perform jumping jacks at a moderate pace to gradually increase your heart rate.",
+      "men": {
+        "duration": 30,
+        "equipments": [],
+        "charge": 0,
+        "sets": 1,
+        "reps": 20,
+        "iso": false,
+        "rest": 10
+      },
+      "women": {
+        "duration": 30,
+        "equipments": [],
+        "charge": 0,
+        "sets": 1,
+        "reps": 20,
+        "iso": false,
+        "rest": 10
+      }
+    },
+    "intermediate": {
+      "description": "Increase the pace of your jumping jacks to further elevate your heart rate and warm up muscles.",
+      "men": {
+        "duration": 45,
+        "equipments": [],
+        "charge": 0,
+        "sets": 1,
+        "reps": 30,
+        "iso": false,
+        "rest": 15
+      },
+      "women": {
+        "duration": 45,
+        "equipments": [],
+        "charge": 0,
+        "sets": 1,
+        "reps": 30,
+        "iso": false,
+        "rest": 15
+      }
+    },
+    "advanced": {
+      "description": "Perform jumping jacks at a fast pace to maximize cardiovascular warm-up and muscle activation.",
+      "men": {
+        "duration": 60,
+        "equipments": [],
+        "charge": 0,
+        "sets": 1,
+        "reps": 40,
+        "iso": false,
+        "rest": 20
+      },
+      "women": {
+        "duration": 60,
+        "equipments": [],
+        "charge": 0,
+        "sets": 1,
+        "reps": 40,
+        "iso": false,
+        "rest": 20
+      }
+    }
+  },
+  "workouts": ["warm-up"],
+  "body_parts_intensity": [
+    {"glute": "moderate"},
+    {"calf": "moderate"},
+    {"quadricep": "moderate"},
+    {"hamstring": "moderate"},
+    {"shoulder": "low"},
+    {"abdominal": "low"}
+  ]
+}
